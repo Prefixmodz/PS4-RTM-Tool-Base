@@ -1,0 +1,11 @@
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.csproj.AssemblyReference.cache
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.Mainform.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.Properties.Resources.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBH.Controls.CrEaTiiOn_ColorSliderVertical.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBH.Controls.CrEaTiiOn_ComboBox.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBH.Controls.CrEaTiiOn_ModernTextBox.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_FancyComboBox.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.Theme.ThemeBase.Ultimate_Controls.CrEaTiiOn_Ultimate_FancyTextBox.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_GradientTextBox.resources
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.csproj.GenerateResource.cache
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.csproj.CoreCompileInputs.cache

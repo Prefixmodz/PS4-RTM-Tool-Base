@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBHPS4RTMBase", "CBHPS4RTMBase\CBHPS4RTMBase.csproj", "{FA38E294-6153-4E5E-A91D-2B6204626808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA38E294-6153-4E5E-A91D-2B6204626808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA38E294-6153-4E5E-A91D-2B6204626808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA38E294-6153-4E5E-A91D-2B6204626808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA38E294-6153-4E5E-A91D-2B6204626808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E74D28F-37B0-4BBD-812F-54426934DC52}
+	EndGlobalSection
+EndGlobal
