@@ -9,3 +9,10 @@ C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.The
 C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_GradientTextBox.resources
 C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.csproj.GenerateResource.cache
 C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.csproj.CoreCompileInputs.cache
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\bin\Debug\CBHPS4RTMBase.exe.config
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\bin\Debug\CBHPS4RTMBase.exe
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\bin\Debug\CBHPS4RTMBase.pdb
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.exe
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RTMBase.pdb
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\bin\Debug\libdebug.dll
+C:\Users\Keato\Documents\CBHPS4RTMBase\CBHPS4RTMBase\obj\Debug\CBHPS4RT.C4B4D34D.Up2Date
